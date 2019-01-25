@@ -1,0 +1,10 @@
+YYYY,Year the evidence was received for analysis
+State,State in which the evidence was taken into custody
+County,County in which the evidence was taken into custody
+FIPS_State,FIPS code representing state
+FIPS_County,FIPS code representing county
+FIPS_Combined,Combined state and county FIPS codes
+SubstanceName,Name of the substance identified in the analysis
+DrugReports,County total count of the indicated substance. 
+TotalDrugReportsCounty,County total count of all substances identified.
+TotalDrugReportsState,State total count of all substances identified.
